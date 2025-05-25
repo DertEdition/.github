@@ -13,9 +13,7 @@
 
 ## 📂 Proje Dökümanları
 
-- 📁 **Google Drive Klasörü (495):**   https://drive.google.com/drive/u/2/folders/1TVZ-TiY9GfhwlP3_ZFIVG4lICe53qMoa
-  
-- 📁 **Google Drive Klasörü (496):**   https://drive.google.com/drive/u/2/folders/1z-h-HF8oVzClkSAkvEeY8dHCZGb3NRs1
+- 📁 **Google Drive Klasörü:**   https://drive.google.com/drive/u/2/folders/1wHb2tEjioD7wfVjmO6G7-qsUrEuCMfOq
 
 - 📋 **Trello Sprint Board:** https://trello.com/b/GpejIcun/dertedition
 
@@ -31,6 +29,4 @@
 | Sprint 4  | Mehmet Yasin Tosun      |
 
 ---
-
-> *"Veri seti eksikti… biz de dertle tamamladık."*
 
